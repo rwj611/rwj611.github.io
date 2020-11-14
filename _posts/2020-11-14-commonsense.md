@@ -20,4 +20,4 @@ catalog: true
 </head>
 
 #### 1. 光的偏振
-https://www.bilibili.com/video/BV1at411U7nr/?spm_id_from=333.788.videocard.3
+[https://www.bilibili.com/video/BV1at411U7nr/?spm_id_from=333.788.videocard.3](https://www.bilibili.com/video/BV1at411U7nr/?spm_id_from=333.788.videocard.3)
