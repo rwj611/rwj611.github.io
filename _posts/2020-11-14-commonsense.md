@@ -1,13 +1,11 @@
 ---
 layout:     post
-title:      "词向量之ELMO"
+title:      "小常识"
 subtitle:   ""
 date:       2020-11-14 12:00:00
 author:     "rwj611"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
-tags:
-    - ai
 ---
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
