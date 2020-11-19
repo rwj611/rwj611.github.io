@@ -21,3 +21,6 @@ catalog: true
 
 #### 1. 光的偏振
 [https://www.bilibili.com/video/BV1at411U7nr/?spm_id_from=333.788.videocard.3](https://www.bilibili.com/video/BV1at411U7nr/?spm_id_from=333.788.videocard.3)
+
+#### 2. 磁性来源
+[http://www.kepu.net.cn/gb/basic/magnetism/magnetabc/200306110013.html](http://www.kepu.net.cn/gb/basic/magnetism/magnetabc/200306110013.html)
