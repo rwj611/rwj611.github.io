@@ -7,13 +7,7 @@ author:     "rwj611"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
-    - blockchain
-    - ai
-    - 脑子
-    - 量子  
+    -  piupiupiupiu 
 ---
 
-> “Yeah It's on. ”
-HIA HIA HIA
-今日加班到10:30
+Hello world
